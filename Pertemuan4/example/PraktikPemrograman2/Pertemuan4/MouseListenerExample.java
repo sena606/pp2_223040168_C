@@ -1,4 +1,4 @@
-package com.example.PraktikPemrograman2.Pertemuan4;
+package Pertemuan4.example.PraktikPemrograman2.Pertemuan4;
 
 import javax.swing.*;
 import java.awt.event.*;
